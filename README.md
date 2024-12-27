@@ -1,4 +1,4 @@
-# USB-Analysis-Program
+# USB Analyser
 scanning and analysing contents of usb for if there are any irregularities 
 
 Libraries to Install
